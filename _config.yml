@@ -1,0 +1,28 @@
+name: Beat the Heat
+favicon: null
+layout_spectrum: 0.856756828725338
+typography_spectrum: 0.4444599482230842
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8200601488351822
+  lightness: 0.9542323716450483
+  saturation: 0.7570908723864704
+  rhythmicContrast: 0.39032995444722474
+purpose: []
